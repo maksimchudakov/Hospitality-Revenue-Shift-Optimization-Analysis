@@ -1,4 +1,4 @@
-Hospitality Revenue & Shift Optimization Analysis
+## Hospitality Revenue & Shift Optimization Analysis
 
 This project analyzes tip-based revenue patterns in the hospitality and casino industry to identify optimal working shifts and improve income predictability. 
 
