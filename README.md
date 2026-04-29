@@ -6,7 +6,7 @@ Using Python-based data analysis, the study evaluates how external factors such 
 
 The objective is to transform historical earnings data into actionable scheduling insights through exploratory data analysis and business-oriented metrics.
 
-
+231213
 213
 3213213
 33311
